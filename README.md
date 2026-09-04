@@ -27,7 +27,7 @@
 - Built for **backtesting**, **algorithmic trading** and **quantitative finance** workflows
 - **Weekly refresh** — [getdata.finance](https://getdata.finance) every **Saturday, 8am UTC+0**; GitHub `3m` sample updated in sync
 
-> **Sample on GitHub** · `US30_3m.csv` (18,481 rows, `2026-07-07` -> `2026-09-02`, 1.38 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us30)** — **2,033,832** `3m` rows (full `1m`: 6,024,308), **11 timeframes**, `2009-03-11` -> `2026-09-02`.
+> **Sample on GitHub** · `US30_3m.csv` (18,480 rows, `2026-07-07` -> `2026-09-02`, 1.38 MB). **Full archive on [getdata.finance](https://getdata.finance/datasets/us30)** — **2,033,832** `3m` rows (full `1m`: 5,980,529), **11 timeframes**, `2009-03-11` -> `2026-09-02`.
 
 ## Download sample
 
@@ -45,7 +45,7 @@ Full archive & live chart on getdata.finance: **[https://getdata.finance/dataset
 |---|--:|---|
 | Instrument | Dow Jones 30 · Index | Dow Jones 30 · Index |
 | Timeframes | `3m` (sample) | **11** — 1m · 3m · 5m · 15m · 30m · 1H · 4H · 12H · 1D · 3D · 1W |
-| 3m rows | 18,481 | **2,033,832** |
+| 3m rows | 18,480 | **2,033,832** |
 | Size | 1.38 MB | full ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
 | Period | `2026-07-07` -> `2026-09-02` | `2009-03-11` -> `2026-09-02` |
 | File | `US30_3m.csv` | ZIP on [getdata.finance](https://getdata.finance/datasets/us30) |
@@ -75,11 +75,11 @@ First and latest rows from the GitHub sample **`US30_3m.csv`**:
 
 | datetime | open | high | low | close | volume |
 | --- | --- | --- | --- | --- | --- |
-| 2026-07-07T19:00:00+00:00 | 53013.56 | 53023.06 | 52968.56 | 52988.06 | 2555 |
 | 2026-07-07T19:03:00+00:00 | 52988.06 | 52999.56 | 52965.06 | 52965.06 | 2105 |
 | 2026-07-07T19:06:00+00:00 | 52965.06 | 52985.06 | 52961.06 | 52969.06 | 1708 |
 | 2026-07-07T19:09:00+00:00 | 52969.06 | 52971.56 | 52949.06 | 52955.06 | 1653 |
 | 2026-07-07T19:12:00+00:00 | 52955.06 | 52971.56 | 52949.06 | 52963.06 | 1491 |
+| 2026-07-07T19:15:00+00:00 | 52963.06 | 52983.06 | 52956.06 | 52978.06 | 1666 |
 
 **Last rows**
 
